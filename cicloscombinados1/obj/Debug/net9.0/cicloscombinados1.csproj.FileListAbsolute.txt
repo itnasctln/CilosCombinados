@@ -1,0 +1,14 @@
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\bin\Debug\net9.0\cicloscombinados1.exe
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\bin\Debug\net9.0\cicloscombinados1.deps.json
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\bin\Debug\net9.0\cicloscombinados1.runtimeconfig.json
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\bin\Debug\net9.0\cicloscombinados1.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\bin\Debug\net9.0\cicloscombinados1.pdb
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.AssemblyInfoInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.AssemblyInfo.cs
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.csproj.CoreCompileInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\refint\cicloscombinados1.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.pdb
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.genruntimeconfig.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\ref\cicloscombinados1.dll
