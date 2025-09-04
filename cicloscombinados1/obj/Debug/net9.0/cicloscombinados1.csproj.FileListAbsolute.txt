@@ -12,3 +12,4 @@ D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\ne
 D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.pdb
 D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.genruntimeconfig.cache
 D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\ref\cicloscombinados1.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\cicloscombinados1\obj\Debug\net9.0\cicloscombinados1.sourcelink.json

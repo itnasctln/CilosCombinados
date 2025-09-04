@@ -82,22 +82,46 @@ class Program
 
         // FOR CON WHILE
         // vamos a cargar 10 grupos, pero no sabemos cuantas personas tiene cada grupo.
+        // haremos un for para los 10 grupos, y mediante un while cargaremos personas.
+        //cuando no carguemos mas personas, presionamos 0
 
-        int prom, n, acu, con;
-        
-        Console.WriteLine("ingrtese 1 para comenzar a procesar o 0 para terminar ");
-        n = int.Parse(Console.ReadLine());
+        int n;          // para cada edad ingresada
+        int prom;       // promedio
+        int suma = 0;   // acumulador
+        int grupos = 10; // cantidad fija de grupos a cargar
 
-        while (nameof != 0) { }
-        Acu = 0
-            for (int x = 0, x < 20, x++) {
-            Console.WriteLine("ingrese la edad");
-            n = int.Parse(Console.ReadLine());
-            acu += n;
+        for (int g = 1; g <= grupos; g++) // ciclo para cada grupo
+        {
+            suma = 0; // reiniciamos el acumulador para cada grupo
+            int r = 0; // contador de personas por grupo
 
+            Console.WriteLine("Cargando grupo " + g + ". Ingrese las edades de las personas (0 para terminar):");
+
+            while (true) // ciclo para cargar personas hasta que se ingrese 0
+            {
+                Console.Write("Edad de la persona " + (r + 1) + ": ");
+                n = int.Parse(Console.ReadLine());
+
+                if (n == 0) // condición de salida
+                {
+                    break;
+                }
+
+                suma += n; // sumamos cada edad
+                r++; // incrementamos el contador de personas
+            }
+
+            if (r > 0) // evitamos división por cero
+            {
+                prom = suma / r; // calculamos el promedio
+                Console.WriteLine("El promedio de edades del grupo " + g + " es: " + prom);
+            }
+            else
+            {
+                Console.WriteLine("No se ingresaron edades para el grupo " + g + ".");
+            }
         }
-        prom = acu / 20;
-        Console.WriteLine("el promedio es" + prom);
-    
+           
+
     }
 }
