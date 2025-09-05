@@ -1,0 +1,15 @@
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.AssemblyInfoInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.AssemblyInfo.cs
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.csproj.CoreCompileInputs.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.sourcelink.json
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\bin\Debug\net9.0\corte-de-control.exe
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\bin\Debug\net9.0\corte-de-control.deps.json
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\bin\Debug\net9.0\corte-de-control.runtimeconfig.json
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\bin\Debug\net9.0\corte-de-control.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\bin\Debug\net9.0\corte-de-control.pdb
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\refint\corte-de-control.dll
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.pdb
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\corte-de-control.genruntimeconfig.cache
+D:\Documentos\Curso_C#_Nivel_1\6-CiclosCombinados\corte-de-control\obj\Debug\net9.0\ref\corte-de-control.dll
